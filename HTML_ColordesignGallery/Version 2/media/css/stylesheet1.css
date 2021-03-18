@@ -1,0 +1,27 @@
+body  {background-color:#ccbba4 ;
+      text-align: right;
+      font-family: cursive ;
+      font-size:10px;
+
+    }
+
+
+      h1 {
+    text-align:right;
+    font-family:sans-serif;
+
+  }
+
+
+
+
+center {
+  margin-right: 80px;
+    margin-left: 80px;}
+
+
+.right {
+text-align: right;
+  }
+.left {
+text-align: right;}
